@@ -31,4 +31,7 @@ for root_folder, main_dirs, main_files in os.walk(work_dir):
             print(f"Copying {file} to new home in {artist} / {song}...")
             file_path = f"{new_work_dir}/{file}"
             shutil.copy2(file_path, song_folder)
-        shutil.rmtree(new_work_dir)
+        try:
+            shutil.rmtree(new_work_dir)
+        except FileNotFoundError:
+            print(f"Folder {new_work_dir} not found.")
