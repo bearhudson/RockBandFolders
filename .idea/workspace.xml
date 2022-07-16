@@ -1,7 +1,259 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c6b7de2-4466-4482-8dfa-9e89763ef5c4" name="Changes" comment="">
+    <list default="true" id="3c6b7de2-4466-4482-8dfa-9e89763ef5c4" name="Changes" comment="Exceptions">
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Avenged Sevenfold/So Far Away/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Barenaked Ladies/One Week/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Blink-182/Always/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Collective Soul/Shine/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Collective Soul/Shine/drums.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Collective Soul/Shine/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Collective Soul/Shine/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Collective Soul/Shine/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Collective Soul/Shine/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Collective Soul/Shine/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Collective Soul/Shine/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Elton John/I'm Still Standing/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fall Out Boy/A Little Less Sixteen Candles, A Little More (Touch Me)/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foo Fighters/These Days/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Foster the People/Pumped Up Kicks/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/drums.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Fun. ft. Janelle Monáe/We Are Young/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Great White/Once Bitten Twice Shy/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Iron Maiden/The Wicker Man (2x Bass Pedal Expert+)/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/drums.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kelly Clarkson/Stronger (What Doesn't Kill You)/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Kool &amp; The Gang/Jungle Boogie/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Living Colour/Cult of Personality/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/drums.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Maroon 5 ft. Christina Aguilera/Moves Like Jagger/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/drums.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/My Chemical Romance/Sing/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Pink/Raise Your Glass/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Queen/Death on Two Legs (Dedicated to...)/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Quiet Riot/Bang Your Head (Metal Health)/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Red Hot Chili Peppers/Give It Away (RB3 version)/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Rick Springfield/Jessie's Girl/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Shinedown/Diamond Eyes (Boom-Lay Boom-Lay Boom)/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Soundgarden/Spoonman (RB3 version)/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/Tears for Fears/Shout/vocals.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/album.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/drums_1.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/drums_2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/drums_3.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/guitar.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/keys.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/notes.mid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/rhythm.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/song.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/song.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rock Band Blitz/The All-American Rejects/Kids in the Street/vocals.ogg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,8 +314,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657939382800</updated>
-      <workItem from="1657939385324" duration="10299000" />
+      <workItem from="1657939385324" duration="11499000" />
     </task>
+    <task id="LOCAL-00001" summary="Exceptions">
+      <created>1657994858424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657994858424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,19 +342,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/RockBandFolders$main.coverage" NAME="main Coverage Results" MODIFIED="1657982586736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RockBandFolders$main.coverage" NAME="main Coverage Results" MODIFIED="1657994774977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
